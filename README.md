@@ -1,5 +1,3 @@
-# My Back-End Engineer Path
-
 ## Learning Objectives
 
 After completing this Path, I will be able to:
